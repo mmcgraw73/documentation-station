@@ -55,6 +55,10 @@ Example: `20250205_162556_React_Reference.md`
 - Code Snippets
 - Best Practices
 
+### Coming Soon Categories
+- CSS Modules
+- Shadow DOM
+
 ## Maintenance
 - Regular updates for new patterns and practices
 - Periodic review of existing documentation
